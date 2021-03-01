@@ -37,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.zad_dla_chętnych3">
+  <component name="RunManager" selected="Application.zad_dla_chętnych1">
     <configuration name="z4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secoud_week.zadanie3.z4" />
       <module name="ZSE_Praktyki" />
@@ -105,8 +105,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zad_dla_chętnych3" />
         <item itemvalue="Application.zad_dla_chętnych1" />
+        <item itemvalue="Application.zad_dla_chętnych3" />
         <item itemvalue="Application.zad_dla_chętnych2" />
         <item itemvalue="Application.z5" />
         <item itemvalue="Application.z4" />
