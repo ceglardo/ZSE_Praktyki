@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e9368b-4e84-4047-9f2f-e8dd0950f635" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/secoud_week/zadanie6/Piec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prodżekt/Prodzekt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZSE_Praktyki/secoud_week/zadanie5/z1lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZSE_Praktyki/secoud_week/zadanie5/z1lista.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +50,26 @@
       <recent name="secoud_week.zadanie6" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Piec">
+  <component name="RunManager" selected="Application.Prodzekt">
     <configuration name="Piec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secoud_week.zadanie6.Piec" />
       <module name="ZSE_Praktyki" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="secoud_week.zadanie6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prodzekt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prodżekt.Prodzekt" />
+      <module name="ZSE_Praktyki" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prodżekt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="z5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="secoud_week.zadanie4.z5" />
-      <module name="ZSE_Praktyki" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="secoud_week.zadanie4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prodzekt" />
         <item itemvalue="Application.Piec" />
         <item itemvalue="Application.z2 (1)" />
         <item itemvalue="Application.z1lista" />
         <item itemvalue="Application.z1 (1)" />
-        <item itemvalue="Application.z5" />
       </list>
     </recent_temporary>
   </component>
